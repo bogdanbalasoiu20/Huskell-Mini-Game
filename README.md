@@ -11,5 +11,5 @@ Command System: The simulator processes a variety of commands, including:
   Repeat: Repeats a given action a specified number of times.
   Wait: The turtle does nothing, maintaining its position and orientation.
   Seq: Combines two commands and executes them sequentially.
-  Position Tracking: The turtle’s position is represented by Cartesian coordinates (x, y) and its orientation is tracked using                      one of the four cardinal directions (North, South, East, West).
+  Position Tracking: The turtle’s position is represented by Cartesian coordinates (x, y) and its orientation is tracked using one of the four cardinal directions (North, South, East, West).
 </pre>
